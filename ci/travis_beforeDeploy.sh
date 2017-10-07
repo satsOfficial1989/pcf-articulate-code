@@ -16,3 +16,5 @@ for file in ./target/*.jar; do
 	echo "$filename-$(date +%Y%m%d-%H%M%S)-${TRAVIS_BUILD_NUMBER}.jar"
 	mv -nv -- "$file" "$filename-$(date +%Y%m%d-%H%M%S)-${TRAVIS_BUILD_NUMBER}.jar"
 done
+
+
