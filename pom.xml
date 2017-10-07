@@ -7,6 +7,7 @@
 	<artifactId>articulate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+	
 
 	<name>articulate</name>
 	<description>Articulate the value of Cloud Foundry </description>
