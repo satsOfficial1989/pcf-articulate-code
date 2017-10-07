@@ -10,6 +10,8 @@ A sample application built with [Spring Boot](http://projects.spring.io/spring-b
 $ ./mvnw spring-boot:run
 ```
 
+
+
 Then go to the http://localhost:8080 in your browser.  The application uses an embedded H2 database when running in this mode.
 
 ## To run on Cloud Foundry
